@@ -13,3 +13,5 @@ Wystarczy tylko:
     <li>uruchomić Git Bash w nowym katalogu</li>
     <li> wykonać polecenie: git clone <ścieżka do współdzielonej lokalizacji></li>
 </ol>
+
+W plikach dołączonych do repozytorium jest prezentacja Power Point.
