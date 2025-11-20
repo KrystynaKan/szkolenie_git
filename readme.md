@@ -25,3 +25,7 @@ W katalogu skrypty_sql umieszczam skrypty sql wykorzystywane w aplikacji:
 <li>skrypt 3 - szablon funkcji</li>
 <li>skrypt 4 - szablon zarządzania uprawnień</li>
 </ul>
+
+dodatkowy akapit
+
+W plikach dołączonych do repozytorium jest prezentacja Power Point.
