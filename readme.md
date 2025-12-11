@@ -15,3 +15,11 @@ Wystarczy tylko:
 </ol>
 
 W plikach dołączonych do repozytorium jest prezentacja Power Point.
+
+W katalogu skrypty_sql umieszczam skrypty sql wykorzystywane w aplikacji:
+<ul>
+<li>skrypt 1 - szablon procedury</li>
+<li>skrypt 2 - szablon zapytania</li>
+<li>skrypt 3 - szablon funkcji</li>
+<li>skrypt 4 - szablon zarządzania uprawnień</li>
+</ul>
